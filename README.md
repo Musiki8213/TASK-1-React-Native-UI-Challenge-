@@ -89,12 +89,6 @@ eas build --platform android --profile preview
 
 ### For iOS
 
-**Important Notes:**
-- iOS builds create **IPA files** (not APK - that's Android only)
-- You can build iOS apps on Windows using EAS Build cloud service
-- You'll need an **Apple Developer Account** ($99/year) to install on physical devices
-- For testing in iOS Simulator, you can use Expo Go without a developer account
-
 **Building iOS IPA:**
 
 1. Install EAS CLI (if not already installed):
@@ -152,22 +146,8 @@ The application uses `Dimensions` API to ensure proper scaling across different 
 - Expo Vector Icons (@expo/vector-icons)
 - React Native Safe Area Context
 
-## Notes
-
-- Icons are implemented using Expo Vector Icons (Ionicons) to closely match the design
-- Colors are defined as constants matching the design specifications
-- All interactive elements have proper touch handlers
-- The design is pixel-perfect and matches the provided UI mockup
-
 ## Build Files
 
 ### Android APK/AAB
-[Upload your built APK/AAB file to Google Drive and add the link here]
-
-### iOS IPA (Optional)
-[If you built an iOS version, upload the IPA file to Google Drive and add the link here]
-
-## License
-
-This project is created for educational purposes as part of a React Native UI challenge.
+[Download APK](https://drive.google.com/file/d/16wbcaikaMV0DObhTQad0FHGSTHtVC4AV/view?usp=drive_link)
 
