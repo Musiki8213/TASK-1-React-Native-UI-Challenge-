@@ -117,10 +117,6 @@ eas build:configure
 eas build --platform ios --profile preview
 ```
 
-**Note:** The first iOS build will ask you to set up your Apple Developer credentials. You can either:
-- Use your Apple ID (free, but limited to 7 days)
-- Use an Apple Developer account ($99/year) for longer validity
-
 5. Download the IPA from the Expo dashboard once the build completes.
 
 **For Testing Without Building:**
@@ -151,23 +147,10 @@ The application uses `Dimensions` API to ensure proper scaling across different 
 - TypeScript
 - Expo Vector Icons (@expo/vector-icons)
 - React Native Safe Area Context
-
-## Notes
-
-- Icons are implemented using Expo Vector Icons (Ionicons) to closely match the design
-- Colors are defined as constants matching the design specifications
-- All interactive elements have proper touch handlers
-- The design is pixel-perfect and matches the provided UI mockup
-
+- 
 ## Build Files
 
 ### Android APK/AAB
-[Upload your built APK/AAB file to Google Drive and add the link here]
+[Download APK](https://drive.google.com/file/d/16wbcaikaMV0DObhTQad0FHGSTHtVC4AV/view?usp=drive_link)
 
-### iOS IPA (Optional)
-[If you built an iOS version, upload the IPA file to Google Drive and add the link here]
-
-## License
-
-This project is created for educational purposes as part of a React Native UI challenge.
 
