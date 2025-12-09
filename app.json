@@ -18,7 +18,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#FFEB3B"
-      }
+      },
+      "package": "com.musiki.reactnativeuichallenge"
     },
     "extra": {
       "eas": {
