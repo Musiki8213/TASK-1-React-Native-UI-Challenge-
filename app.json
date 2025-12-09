@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "React Native UI Challenge",
+    "slug": "react-native-ui-challenge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#FFEB3B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFEB3B"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7a972449-5d36-433c-9407-889193335c49"
+      }
+    }
+  }
+}
